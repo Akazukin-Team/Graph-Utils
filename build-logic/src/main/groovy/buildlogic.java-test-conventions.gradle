@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+
+    id 'buildlogic.java-common-conventions'
+}
+
+testing {
+    suites {
+        test {
+            useJUnitJupiter('5.13.0-M3')
+        }
+    }
+}
