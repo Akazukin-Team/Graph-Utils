@@ -6,5 +6,5 @@ plugins {
     id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
 }
 
-rootProject.name = '<PLACEHOLDER_NAME>'
-include()
+rootProject.name = 'Graph Utils'
+include('graph', 'test')

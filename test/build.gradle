@@ -1,0 +1,11 @@
+plugins {
+    id 'application'
+
+    id 'buildlogic.java-common-conventions'
+    id 'buildlogic.java-application-conventions'
+    id 'buildlogic.java-module-conventions'
+}
+
+dependencies {
+    implementation project(':graph')
+}

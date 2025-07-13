@@ -1,0 +1,4 @@
+plugins {
+    id 'buildlogic.java-module-conventions'
+    id 'buildlogic.java-publish-conventions'
+}
