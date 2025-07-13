@@ -1,4 +1,4 @@
-package org.akazukin.graph.algorithm.algorithms.akima2;
+package org.akazukin.graph.algorithm.algorithms.makima;
 
 import lombok.AccessLevel;
 import lombok.Getter;
