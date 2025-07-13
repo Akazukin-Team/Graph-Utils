@@ -13,7 +13,6 @@ import java.util.List;
 public class Main {
 
     public static void main(final String[] args) throws InterruptedException {
-        t
         final Frame frame = new Frame();
 
         final Vec2d[] vec2ds;
